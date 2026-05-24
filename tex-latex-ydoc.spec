@@ -2,7 +2,7 @@ Summary:	Macros and environments to document LaTeX packages and classes
 Summary(pl.UTF-8):	Makra i środowiska do dokumentowania pakietów i klas LaTeXa
 Name:		tex-latex-ydoc
 Version:	0.6alpha
-Release:	1
+Release:	2
 License:	LaTeX Project Public License v1.3+
 Group:		Applications/Publishing
 Source0:	http://mirrors.ctan.org/macros/latex/contrib/ydoc.zip
